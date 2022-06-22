@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("hello idea");
         System.out.println("heyun");
         System.out.println("xiaoyu");
+        System.out.println("dev");
         System.out.println("合并");
     }
 }
